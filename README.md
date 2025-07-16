@@ -43,7 +43,7 @@ Despite being trained on a small poetic corpus, the model effectively learns str
 
 ## 📈 Training Summary
 
-- **Training loss**: ~1.6  
+- **Training loss**: ~1.08  
 - **Validation loss**: ~2.1  
 - These values indicate good learning given the limited and domain-specific data.
 
@@ -71,8 +71,4 @@ After training, the model can generate new poetic text that mimics Rumi’s tone
 - Architecture influenced by foundational concepts in **Transformer** and **GPT-style** models
 
 ---
-
-## 📜 License
-
-This project is for academic and educational use. Please credit appropriately if reused or modified.
 
