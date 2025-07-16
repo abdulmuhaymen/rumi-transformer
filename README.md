@@ -1,6 +1,7 @@
 # 🕊️ Rumi LLM – A Transformer-Based Language Model for Poetic Generation
 
-**Rumi LLM** is a custom Transformer-based language model trained exclusively on the poetic works of Jalāl ad-Dīn Muhammad Rūmī. This project is built entirely from scratch using PyTorch and features a fully handcrafted tokenizer and sequence modeling architecture. The goal is to see how deep learning can copy the style and rhythm of old Persian poetry with a mystical feel.
+**Rumi LLM** is a custom Transformer-based language model trained exclusively on the poetic works of Jalāl ad-Dīn Muhammad Rūmī. This project is built entirely from scratch using PyTorch and features a fully handcrafted tokenizer and sequence modeling architecture. The goal is to explore how deep learning can emulate the mystic tone and rhythm of classical Persian poetry.
+
 ---
 
 ## 📌 Features
